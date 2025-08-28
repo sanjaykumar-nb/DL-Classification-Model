@@ -143,6 +143,8 @@ plt.xlabel("Predicted Labels")
 plt.ylabel("True Labels")
 plt.title("Confusion Matrix")
 plt.show()
+print("NAME: SANJAYKUMAR N B")
+print("REG NO: 212223230189")
 sample_input = X_test[5].unsqueeze(0)
 with torch.no_grad():
     output = model(sample_input)
