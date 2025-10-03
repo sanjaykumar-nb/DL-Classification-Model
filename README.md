@@ -37,10 +37,6 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: KARTHIKEYAN R
-
-### Register Number: 212222240046
-
 ```
 import torch
 import torch.nn as nn
