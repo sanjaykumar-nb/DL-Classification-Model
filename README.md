@@ -1,5 +1,6 @@
 # Developing a Neural Network Classification Model
-
+NAME: SANJAYKUMAR N B
+REG NO. 212223230189
 ## AIM
 To develop a neural network classification model for the given dataset.
 
